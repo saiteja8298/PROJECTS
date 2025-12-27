@@ -1,0 +1,353 @@
+.generate-hero {
+  background: var(--bg-dark);
+}
+
+.generate-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+  margin: 3rem 0;
+}
+
+.generate-form {
+  padding: 3rem;
+  background: var(--bg-card);
+  border-radius: 24px;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-lg);
+}
+
+.form-group {
+  margin-bottom: 2rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.75rem;
+  color: var(--text-primary);
+  font-weight: 600;
+  font-size: 1rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
+
+.modern-input {
+  /* Keeping class name to avoid breaking JSX but restyling it */
+  width: 100%;
+  padding: 1rem 1.25rem;
+  background: var(--bg-card-hover);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  color: var(--text-primary);
+  font-size: 1rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+.modern-input:focus {
+  border-color: var(--primary-accent);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+  background: var(--bg-card);
+}
+
+.modern-input::placeholder {
+  color: var(--text-muted);
+}
+
+textarea.modern-input {
+  resize: vertical;
+  min-height: 250px;
+  line-height: 1.6;
+}
+
+.char-count {
+  margin-top: 0.75rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: right;
+  font-weight: 500;
+}
+
+.generate-btn {
+  width: 100%;
+  font-size: 1.1rem;
+  padding: 1.25rem;
+  margin-top: 1.5rem;
+  background: var(--primary-accent);
+  color: white;
+  border-radius: 12px;
+  font-weight: 600;
+  box-shadow: var(--shadow-md);
+  transition: all 0.2s ease;
+}
+
+.generate-btn:hover:not(:disabled) {
+  background: var(--secondary-accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.generate-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background: var(--bg-card-hover);
+  color: var(--text-muted);
+}
+
+.info-panel {
+  padding: 2.5rem;
+  height: fit-content;
+  position: sticky;
+  top: 100px;
+  background: var(--bg-card);
+  border-radius: 24px;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-md);
+}
+
+.info-panel h3 {
+  color: var(--text-primary);
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+}
+
+.info-panel ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+.info-panel li {
+  color: var(--text-secondary);
+  padding: 0.75rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.info-panel li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: var(--primary-accent);
+  font-weight: bold;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
+
+.style-preview {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.style-images {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.style-item {
+  position: relative;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  background: var(--bg-card-hover);
+}
+
+.style-item:hover {
+  border-color: var(--primary-accent);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+.style-item img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+}
+
+.style-item span {
+  display: block;
+  padding: 0.75rem;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  text-align: center;
+  font-weight: 500;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 1024px) {
+  .generate-container {
+    grid-template-columns: 1fr;
+  }
+
+  .info-panel {
+    position: static;
+  }
+}
+
+
+.generate-form {
+  padding: 3rem;
+}
+
+.form-group {
+  margin-bottom: 2rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--glitch-cyan);
+  font-weight: 600;
+  font-size: 1.1rem;
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.glitch-input {
+  width: 100%;
+  padding: 1rem;
+  background: rgba(5, 5, 8, 0.8);
+  border: 2px solid var(--glitch-cyan);
+  border-radius: 15px;
+  color: var(--text-primary);
+  font-size: 1rem;
+  font-family: 'Noto Sans JP', sans-serif;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.glitch-input:focus {
+  border-color: var(--glitch-magenta);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+  background: rgba(5, 5, 8, 0.9);
+}
+
+.glitch-input::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+textarea.glitch-input {
+  resize: vertical;
+  min-height: 300px;
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 1.6;
+}
+
+.char-count {
+  margin-top: 0.5rem;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  text-align: right;
+}
+
+.generate-btn {
+  width: 100%;
+  font-size: 1.3rem;
+  padding: 1.2rem;
+  margin-top: 1rem;
+}
+
+.generate-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.info-panel {
+  padding: 2rem;
+  height: fit-content;
+  position: sticky;
+  top: 100px;
+}
+
+.info-panel h3 {
+  color: var(--glitch-cyan);
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.info-panel ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+.info-panel li {
+  color: var(--text-secondary);
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.info-panel li::before {
+  content: '▶';
+  position: absolute;
+  left: 0;
+  color: var(--glitch-cyan);
+}
+
+.style-preview {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--glitch-cyan);
+}
+
+.style-images {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.style-item {
+  position: relative;
+  border: 2px solid var(--glitch-cyan);
+  border-radius: 15px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.style-item:hover {
+  border-color: var(--glitch-magenta);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.style-item img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+}
+
+.style-item span {
+  display: block;
+  padding: 0.5rem;
+  background: rgba(5, 5, 8, 0.9);
+  color: var(--glitch-cyan);
+  text-align: center;
+  font-weight: 600;
+  font-family: 'Orbitron', sans-serif;
+}
+
+@media (max-width: 1024px) {
+  .generate-container {
+    grid-template-columns: 1fr;
+  }
+
+  .info-panel {
+    position: static;
+  }
+}

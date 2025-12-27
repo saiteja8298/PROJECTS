@@ -1,0 +1,100 @@
+/* Base Page Background */
+body, html {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+/* Generic Container Styling */
+.container, .wrapper, .content, .main {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #f9a826;
+}
+
+/* Paragraphs and Text */
+p, span, li, a, label {
+  color: #e0e0e0;
+}
+
+/* Buttons */
+button {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #444;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #f9a826;
+  color: #000;
+}
+
+/* Inputs and Textareas */
+input, textarea, select {
+  background-color: #111;
+  color: #fff;
+  border: 1px solid #333;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #aaa;
+}
+
+/* Cards or Sections */
+.card, .section, .box, .module {
+  background-color: #111 !important;
+  color: #fff !important;
+  border: 1px solid #222;
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.05);
+}
+
+/* Links */
+a {
+  color: #f9a826;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Tables */
+table {
+  background-color: #111;
+  color: #fff;
+  border: 1px solid #333;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 8px;
+}
+
+/* Scrollbar (Optional but cool for dark theme) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #111;
+}
+::-webkit-scrollbar-thumb {
+  background: #444;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f9a826;
+}
+
+/* Quircle-style Video Shape */
+video, iframe {
+  border-radius: 10%;
+  background-color: #111;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+  border: 1px solid #222;
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,246 @@
+/* MangaDetails.css */
+
+.details-page {
+    min-height: 100vh;
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    overflow-x: hidden;
+    animation: fadeIn 0.5s ease-out;
+}
+
+/* Hero Section */
+.details-hero {
+    position: relative;
+    height: 60vh;
+    width: 100%;
+    overflow: hidden;
+    mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+}
+
+.hero-bg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Removed filters and transitions for "original" look */
+}
+
+.details-hero:hover .hero-bg {
+    /* No hover effect on original image request */
+}
+
+/* Content Container */
+.details-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    position: relative;
+    margin-top: -200px;
+    /* Overlap hero */
+    z-index: 10;
+    display: flex;
+    gap: 4rem;
+    align-items: flex-start;
+}
+
+/* Left Column: Poster */
+.poster-wrapper {
+    flex-shrink: 0;
+    width: 350px;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--bg-card);
+    opacity: 0;
+    animation: slideUp 0.8s ease-out forwards 0.2s;
+}
+
+.poster-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+}
+
+/* Right Column: Info */
+.info-wrapper {
+    flex: 1;
+    padding-top: 4rem;
+    /* Adjust alignment with poster overlap */
+    opacity: 0;
+    animation: slideRight 0.8s ease-out forwards 0.4s;
+}
+
+.manga-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    text-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    background: linear-gradient(to right, #fff, #ccc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.stats-bar {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    padding: 1rem 1.5rem;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    width: fit-content;
+}
+
+.stat-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+}
+
+.stat-item strong {
+    color: var(--primary-accent);
+}
+
+.tags-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-bottom: 2.5rem;
+}
+
+.tag-chip {
+    padding: 0.5rem 1.2rem;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 50px;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.tag-chip:hover {
+    background: var(--primary-accent);
+    color: var(--bg-dark);
+    transform: translateY(-3px) scale(1.05);
+    border-color: var(--primary-accent);
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.2);
+}
+
+.synopsis-section {
+    background: rgba(18, 18, 18, 0.6);
+    backdrop-filter: blur(5px);
+    border-radius: 16px;
+    padding: 2rem;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    margin-bottom: 3rem;
+}
+
+.synopsis-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+    border-bottom: 2px solid var(--primary-accent);
+    display: inline-block;
+    padding-bottom: 0.5rem;
+}
+
+.synopsis-text {
+    line-height: 1.8;
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.back-btn {
+    padding: 1rem 2rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    background: transparent;
+    cursor: pointer;
+}
+
+.back-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideRight {
+    from {
+        opacity: 0;
+        transform: translateX(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Responsive */
+@media (max-width: 968px) {
+    .details-container {
+        flex-direction: column;
+        align-items: center;
+        margin-top: -100px;
+    }
+
+    .poster-wrapper {
+        width: 250px;
+    }
+
+    .info-wrapper {
+        text-align: center;
+        padding-top: 2rem;
+    }
+
+    .stats-bar {
+        margin: 0 auto 2rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .tags-list {
+        justify-content: center;
+    }
+
+    .manga-title {
+        font-size: 2.5rem;
+    }
+}
