@@ -10,16 +10,6 @@
 <span class="tag">🚀 FUTURE</span>
 </p>
 
-<p class="center">
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="280"/>
-</p>
-
-<p class="center">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00fff0?style=for-the-badge">
-<img src="https://img.shields.io/badge/MADE_IN-🇮🇳_INDIA-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/STYLE-CYBER_NEON-purple?style=for-the-badge">
-</p>
-
 <div class="hr"></div>
 
 <div class="card">
@@ -59,10 +49,6 @@ cipherchat/
 │   └── main.jsx
 └── package.json
 </div>
-
-<p class="center">
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="260"/>
-</p>
 </div>
 
 <div class="card">
@@ -87,10 +73,6 @@ food-donation-system/
 ├── profile.html
 └── style.css
 </div>
-
-<p class="center">
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="260"/>
-</p>
 </div>
 
 <div class="card">
@@ -112,10 +94,6 @@ tour-guide-booking-system/
 ├── backend/
 └── backend_chatbot/
 </div>
-
-<p class="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
-</p>
 </div>
 
 <div class="card">
@@ -141,10 +119,6 @@ AniVerseInfo/
 ├── App.jsx
 └── vite.config.js
 </div>
-
-<p class="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
-</p>
 </div>
 
 <div class="card">
@@ -166,10 +140,6 @@ SAI TEJA AMBHILIGE
 🔐 Full Stack Developer | Cyber Security  
 📧 asaitejar@gmail.com  
 </div>
-
-<p>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
-</p>
 
 <div class="hr"></div>
 
