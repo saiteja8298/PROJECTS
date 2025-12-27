@@ -1,25 +1,5 @@
 <!-- ===================== ⚡ CYBER NEON README ⚡ ===================== -->
 
-<style>
-:root{
-  --neon:#00fff0;
-  --pink:#ff2fdc;
-  --purple:#7c7cff;
-  --bg:#0a0a0f;
-  --card:#0f111a;
-  --muted:#9aa3b2;
-}
-body{background:var(--bg);color:#e8ecf1;font-family:ui-monospace,Consolas,monospace}
-.neon{color:var(--neon)}
-.pink{color:var(--pink)}
-.purple{color:var(--purple)}
-.card{background:#0f111a;border:1px solid #1b1f2a;border-radius:16px;padding:20px;margin:20px 0}
-.center{text-align:center}
-.code{background:#070910;border:1px dashed #1b1f2a;border-radius:12px;padding:14px}
-.tag{display:inline-block;padding:6px 12px;border-radius:999px;border:1px solid #222;margin:4px}
-.hr{height:1px;background:linear-gradient(90deg,transparent,#00fff0,transparent);margin:20px 0}
-</style>
-
 <h1 class="center neon">⚡🛡️ SAI TEJA AMBHILIGE 🛡️⚡</h1>
 <h3 class="center purple">👨‍💻 FULL STACK DEVELOPER • 🔐 CYBER SECURITY • 🤖 AI BUILDER</h3>
 
