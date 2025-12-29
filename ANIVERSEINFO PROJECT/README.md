@@ -102,24 +102,6 @@ Think of it as the **IMDb for Anime** - but better, prettier, and made with ❤�
 
 ---
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-| 🏠 Home Page | 📋 Entity Details |
-|:---:|:---:|
-| Hero carousel with 15+ rotating anime | Complete anime information display |
-| ![Home](https://via.placeholder.com/400x250/1a1a2e/667eea?text=🏠+Home+Page) | ![Details](https://via.placeholder.com/400x250/1a1a2e/f093fb?text=📋+Details+Page) |
-
-| 🔍 Browse & Search | 👤 About Page |
-|:---:|:---:|
-| Filter & discover new content | Creator information |
-| ![Browse](https://via.placeholder.com/400x250/1a1a2e/4facfe?text=🔍+Browse+Page) | ![About](https://via.placeholder.com/400x250/1a1a2e/ff6b6b?text=👤+About+Page) |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -370,14 +352,6 @@ If you found this project helpful, please consider:
 </div>
 
 ---
-
-<div align="center">
-
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/aniverse-info&type=Date)](https://star-history.com/#yourusername/aniverse-info&Date)
-
-</div>
 
 ---
 
