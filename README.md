@@ -20,7 +20,6 @@
 🚀 Passionate Full Stack Developer
 🔐 Focused on Cyber Security & Encryption
 🤖 Building AI-powered modern web applications
-🌌 Obsessed with Neon / Cyberpunk UI
 
 "Secure systems + Beautiful design = Future-ready software"
 </pre>
