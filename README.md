@@ -2,267 +2,244 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SAI%20TEJA%20AMBHILIGE&fontSize=40&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SAI%20TEJA%20AMBHILIGE&fontSize=45&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn" />
 
-# FULL STACK DEVELOPER — CYBER SECURITY ENGINEER
+# 👨‍💻 FULL STACK DEVELOPER | 🔐 CYBER SECURITY ENGINEER | 🤖 AI BUILDER
 
-### Building Secure, Scalable & Intelligent Systems
+### 💼 Enterprise-Ready Software Engineer | 🧠 Problem Solver | ⚡ Performance Focused
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Enterprise+Grade+Full+Stack+Engineer;Cyber+Security+Specialist;AI+Powered+Application+Developer;Scalable+Architecture+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Secure+Systems+Architect;Full+Stack+Engineering+Expert;AI+Integrated+Applications;Scalable+Cloud+Ready+Solutions;Cyber+Security+Focused+Developer" />
 
 <br>
 
-<a href="mailto:2320090077csit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Professional-0A192F?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+📞 **+91-7816032058**  
+📧 **2320090077csit@gmail.com**
 
-<a href="https://linkedin.com/in/sai-teja-ambhilige-7a6a21298">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sai-teja-ambhilige-7a6a21298)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/saiteja8298)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2320090077csit@gmail.com)
 
-<a href="https://github.com/saiteja8298">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=saiteja8298&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=saiteja8298&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ABOUT ME
+# 🧠 ABOUT ME
 
-<img align="right" width="180" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+🎯 Passionate Full Stack Developer focused on **secure, scalable, and high-performance applications**
 
-Full Stack Developer specializing in **secure system design, scalable architecture, and AI-powered applications**.
+🔐 Strong expertise in **Cyber Security, Cryptography, Authentication Systems**
 
-Strong background in **Cyber Security, encryption systems, and authentication protocols**.
+🤖 Building **AI-powered web applications** with modern frameworks
 
-Focused on delivering **enterprise-grade solutions** with strong emphasis on **performance, security, and maintainability**.
+📈 Demonstrated leadership in organizing **technical events & hackathons**
 
-Professional mindset aligned with **modern engineering standards** and **clean code practices**.
+💡 Strong focus on **clean architecture, UI experience, and system security**
 
-Location: Hyderabad, India  
-Education: B.Tech Computer Engineering & IT (Cyber Security specialization)  
-University: KLH University  
-CGPA: 8.65  
+📍 Hyderabad, India 🇮🇳  
+🎓 B.Tech Computer Engineering & IT — Cyber Security & Blockchain  
+🏫 KLH University  
+📊 CGPA: **8.65**
 
 ---
 
-# TECHNICAL EXPERTISE
+# ⚡ TECH STACK
 
-### Programming Languages
+## 👨‍💻 Programming Languages
 
-Java  
+Java ☕  
 ████████████████████░░░░ 85%
 
-Python  
+Python 🐍  
 ██████████████████░░░░░░ 80%
 
-JavaScript  
+JavaScript ⚡  
 ████████████████████░░░░ 88%
 
-C  
+C 🔹  
 ████████████████░░░░░░░░ 75%
 
-SQL  
+SQL 🗄️  
 ████████████████░░░░░░░░ 78%
 
 ---
 
-### Web Development
+## 🌐 Web Development
 
-React.js  
+React ⚛️  
 ████████████████████░░░░ 86%
 
-HTML5  
+HTML5 📄  
 ██████████████████████░░ 92%
 
-CSS3  
+CSS3 🎨  
 █████████████████████░░░ 90%
 
-REST APIs  
+REST APIs 🔗  
 ████████████████████░░░░ 85%
 
 ---
 
-### Cyber Security
+## 🔐 Cyber Security
 
-Encryption Algorithms  
+Encryption Algorithms 🔑  
 ████████████████████░░░░ 86%
 
-Authentication Systems  
+Authentication Systems 🛂  
 ████████████████████░░░░ 84%
 
-Cryptography  
+Cryptography 🧠  
 ███████████████████░░░░░ 83%
 
-Secure Communication  
+Secure Communication 🌐  
 ████████████████████░░░░ 85%
 
 ---
 
-# FEATURED PROJECTS
+## 🗄️ Databases
 
-## CipherChat — Secure Messaging Platform
+PostgreSQL 🐘  
+████████████████░░░░░░░░ 78%
 
-Enterprise-level encrypted communication platform implementing modern cryptographic techniques.
-
-Technologies:
-React, JavaScript, Encryption Algorithms
-
-Key Features:
-
-End-to-End encryption  
-
-Custom key generation  
-
-Secure client-side architecture  
-
-Modern UI design  
+MongoDB 🍃  
+████████████████░░░░░░░░ 77%
 
 ---
 
-## Tour Guide Booking System
+## 🛠️ Tools
 
-Scalable full stack booking system with chatbot integration.
+Git 🔧  
+████████████████████░░░░ 88%
 
-Technologies:
-React, Node.js, MongoDB, Flask
+Cisco Packet Tracer 🌐  
+████████████████░░░░░░░░ 75%
 
-Key Features:
+Google Colab 📊  
+████████████████░░░░░░░░ 78%
 
-Guide profiles  
+NVIDIA Tools ⚙️  
+████████████████░░░░░░░░ 72%
 
-Dynamic booking logic  
-
-AI chatbot assistant  
-
-Modular scalable structure  
-
----
-
-## Food Donation System
-
-Platform connecting donors with organizations efficiently.
-
-Technologies:
-HTML, CSS, JavaScript
-
-Key Features:
-
-Google Maps integration  
-
-EmailJS communication  
-
-Responsive UI  
+MS Office 📑  
+████████████████████░░░░ 85%
 
 ---
 
-## AniVerseInfo
+# 🚀 FEATURED PROJECTS
 
-Large scale anime discovery platform with filtering features.
+## 🔐 CipherChat — Secure Messaging Platform
 
-Technologies:
-React, Vite
+💬 End-to-end encrypted communication system
 
-Key Features:
+### Highlights
+🔑 AES, DES, TripleDES, Blowfish, RC4  
+🧠 Custom encryption key system  
+🌙 Modern cyber-themed UI  
+⚡ Client-side secure processing  
 
-15000+ dataset  
-
-Search and filter system  
-
-Modern UI design  
-
----
-
-# PROFESSIONAL EXPERIENCE
-
-Event Coordinator  
-IEEE Student Branch  
-KLH University  
-
-Coordinated 15+ technical events  
-
-Managed 200+ participant hackathon  
-
-Led collaboration across technical clubs  
-
-Promoted innovation culture  
+Tech Stack  
+React • JavaScript • Cryptography
 
 ---
 
-# CERTIFICATIONS
+## 🌍 Tour Guide Booking System
 
-Automation Anywhere  
-Advanced Automation Certification  
+✈️ Full stack travel platform with AI chatbot
 
-Meta  
-Full Stack Engineering Certification  
+### Highlights
+🗺️ Tour listing system  
+👨‍💼 Guide profile pages  
+🤖 AI chatbot assistant  
+📊 MongoDB ready schema  
 
-Multicloud Network Associate  
-
-IEEE Recognition  
-Event Coordinator  
-
----
-
-# DEVELOPMENT PHILOSOPHY
-
-Secure by design  
-
-Performance optimized  
-
-Scalable architecture  
-
-Clean code principles  
-
-User centered design  
-
-Continuous learning mindset  
+Tech Stack  
+React • Node.js • MongoDB • Flask
 
 ---
 
-# GITHUB ANALYTICS
+## 🍲 Food Donation System
 
-<div align="center">
+❤️ Social impact web platform
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saiteja8298&show_icons=true&theme=tokyonight&hide_border=true">
+### Highlights
+📍 Google Maps integration  
+📧 EmailJS communication  
+📱 Responsive UI  
+⚡ Lightweight design  
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja8298&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja8298&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
+Tech Stack  
+HTML • CSS • JavaScript
 
 ---
 
-# CONTACT
+## 🎬 AniVerseInfo
 
-Email  
-2320090077csit@gmail.com  
+📺 Anime discovery platform
 
-Phone  
-+91-7816032058  
+### Highlights
+⭐ 15000+ anime dataset  
+🔎 filtering & search  
+🌙 dark modern UI  
+⚡ fast loading interface  
 
-LinkedIn  
+Tech Stack  
+React • Vite • API integration
+
+---
+
+# 🏆 EXPERIENCE
+
+## 🎤 Event Coordinator — IEEE Student Branch
+
+📍 KLH University  
+📅 Dec 2024 – Present  
+
+### Achievements
+
+✔️ Coordinated **15+ technical events**  
+✔️ Led **24-hour hackathon** with 200+ participants  
+✔️ collaborated across multiple technical clubs  
+✔️ promoted innovation & practical learning  
+✔️ improved student engagement in technology  
+
+---
+
+# 📜 CERTIFICATIONS
+
+🤖 Automation Anywhere — Advanced Automation Certification (2024)
+
+💼 Meta — Full Stack Engineer Certificate
+
+☁️ Multicloud Network Associate
+
+🏆 IEEE Student Branch — Event Coordinator Recognition
+
+---
+
+# 📬 CONTACT
+
+📧 Email: 2320090077csit@gmail.com  
+
+📞 Phone: +91-7816032058  
+
+💼 LinkedIn:  
 linkedin.com/in/sai-teja-ambhilige-7a6a21298  
 
-GitHub  
+💻 GitHub:  
 github.com/saiteja8298  
 
-Location  
-Hyderabad, India  
+📍 Location: Hyderabad, India 🇮🇳  
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+### ⚡ ENGINEERED FOR SCALE
+### 🔐 BUILT FOR SECURITY
+### 🚀 READY FOR ENTERPRISE
 
-ENGINEERED FOR ENTERPRISE SYSTEMS  
-SECURED WITH ADVANCED ARCHITECTURE  
-BUILT WITH PRECISION  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
 
