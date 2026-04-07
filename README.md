@@ -15,7 +15,7 @@
 📞 **+91-7816032058**  
 📧 **2320090077csit@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sai-teja-ambhilige-7a6a21298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ambhilige-sai-teja-7a6a21298/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/saiteja8298)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2320090077csit@gmail.com)
 
