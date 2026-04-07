@@ -2,225 +2,267 @@
 
 <div align="center">
 
-# ⚡ SAI TEJA AMBHILIGE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SAI%20TEJA%20AMBHILIGE&fontSize=40&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn" />
 
-### Full Stack Engineer • Cyber Security Specialist • AI Developer
+# FULL STACK DEVELOPER — CYBER SECURITY ENGINEER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Secure+Scalable+Applications;Cyber+Security+%7C+AI+%7C+Full+Stack;Enterprise+Ready+Software+Engineer" />
+### Building Secure, Scalable & Intelligent Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Enterprise+Grade+Full+Stack+Engineer;Cyber+Security+Specialist;AI+Powered+Application+Developer;Scalable+Architecture+Designer" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-Enterprise%20Applications-0A192F?style=for-the-badge">
-<img src="https://img.shields.io/badge/Security-Zero%20Trust-00F7FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-Integrated-FF00FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud-Ready-00FF9C?style=for-the-badge">
+<a href="mailto:2320090077csit@gmail.com">
+<img src="https://img.shields.io/badge/Email-Professional-0A192F?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/sai-teja-ambhilige-7a6a21298">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/saiteja8298">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=saiteja8298&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-# PROFESSIONAL SUMMARY
+# ABOUT ME
 
-Results-driven **Full Stack Developer** specializing in **Cyber Security, AI integration, and scalable web architecture**.  
-Strong experience designing secure, responsive applications with modern frameworks and cloud-ready infrastructure.
+<img align="right" width="180" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
 
-### Key Highlights
-• Developed multiple production-ready full stack applications  
-• Experience with secure authentication and encryption algorithms  
-• Strong understanding of scalable architecture & modular UI design  
-• Skilled in integrating AI features into modern web applications  
-• Passionate about secure coding and clean UI engineering  
+Full Stack Developer specializing in **secure system design, scalable architecture, and AI-powered applications**.
+
+Strong background in **Cyber Security, encryption systems, and authentication protocols**.
+
+Focused on delivering **enterprise-grade solutions** with strong emphasis on **performance, security, and maintainability**.
+
+Professional mindset aligned with **modern engineering standards** and **clean code practices**.
+
+Location: Hyderabad, India  
+Education: B.Tech Computer Engineering & IT (Cyber Security specialization)  
+University: KLH University  
+CGPA: 8.65  
 
 ---
 
-# TECHNICAL SKILLS
+# TECHNICAL EXPERTISE
 
 ### Programming Languages
-HTML  
-████████████████████████░ 95%
 
-CSS  
-██████████████████████░░ 90%
-
-JavaScript  
+Java  
 ████████████████████░░░░ 85%
 
 Python  
 ██████████████████░░░░░░ 80%
 
-Java  
-█████████████████░░░░░░░ 78%
-
-SQL / PLSQL  
-████████████████░░░░░░░░ 75%
-
----
-
-### Frameworks & Libraries
-React.js  
-████████████████████░░░░ 85%
-
-Node.js  
-██████████████████░░░░░░ 80%
-
-Flask  
-█████████████████░░░░░░░ 78%
-
-Vite  
-██████████████████░░░░░░ 80%
-
-MongoDB  
-█████████████████░░░░░░░ 78%
-
----
-
-### Security & Tools
-Encryption Algorithms  
-████████████████████░░░░ 85%
-
-Git & GitHub  
+JavaScript  
 ████████████████████░░░░ 88%
 
-PostgreSQL  
+C  
 ████████████████░░░░░░░░ 75%
 
-Cisco Packet Tracer  
-████████████████░░░░░░░░ 75%
+SQL  
+████████████████░░░░░░░░ 78%
 
-Google Colab  
-████████████████░░░░░░░░ 76%
+---
+
+### Web Development
+
+React.js  
+████████████████████░░░░ 86%
+
+HTML5  
+██████████████████████░░ 92%
+
+CSS3  
+█████████████████████░░░ 90%
+
+REST APIs  
+████████████████████░░░░ 85%
+
+---
+
+### Cyber Security
+
+Encryption Algorithms  
+████████████████████░░░░ 86%
+
+Authentication Systems  
+████████████████████░░░░ 84%
+
+Cryptography  
+███████████████████░░░░░ 83%
+
+Secure Communication  
+████████████████████░░░░ 85%
 
 ---
 
 # FEATURED PROJECTS
 
 ## CipherChat — Secure Messaging Platform
-Enterprise-grade encrypted communication platform implementing multiple cryptographic standards.
+
+Enterprise-level encrypted communication platform implementing modern cryptographic techniques.
+
+Technologies:
+React, JavaScript, Encryption Algorithms
 
 Key Features:
-• End-to-End Encryption  
-• AES, DES, TripleDES, Blowfish, RC4  
-• Custom encryption keys  
-• Dark themed cyber UI  
-• Secure client-side architecture  
 
-Tech Stack:
-JavaScript, React, Encryption Algorithms
+End-to-End encryption  
+
+Custom key generation  
+
+Secure client-side architecture  
+
+Modern UI design  
 
 ---
 
 ## Tour Guide Booking System
-Full stack travel booking platform with AI chatbot integration.
+
+Scalable full stack booking system with chatbot integration.
+
+Technologies:
+React, Node.js, MongoDB, Flask
 
 Key Features:
-• Tour listings & booking logic  
-• Guide profile system  
-• AI chatbot (Python backend)  
-• Modular component architecture  
-• MongoDB ready schema  
 
-Tech Stack:
-React, Node.js, MongoDB, Flask
+Guide profiles  
+
+Dynamic booking logic  
+
+AI chatbot assistant  
+
+Modular scalable structure  
 
 ---
 
 ## Food Donation System
-Social impact platform connecting donors with NGOs.
 
-Key Features:
-• EmailJS integration  
-• Google Maps integration  
-• Clean responsive UI  
-• Donation tracking structure  
+Platform connecting donors with organizations efficiently.
 
-Tech Stack:
+Technologies:
 HTML, CSS, JavaScript
 
+Key Features:
+
+Google Maps integration  
+
+EmailJS communication  
+
+Responsive UI  
+
 ---
 
-## AniVerseInfo — Anime Information Platform
-Large-scale anime dataset interface with filtering and rating system.
+## AniVerseInfo
+
+Large scale anime discovery platform with filtering features.
+
+Technologies:
+React, Vite
 
 Key Features:
-• 15,000+ anime dataset  
-• modern UI design  
-• filter & search functionality  
-• scalable frontend structure  
 
-Tech Stack:
-React, Vite, API Integration
+15000+ dataset  
 
----
+Search and filter system  
 
-# EXPERIENCE
-
-Event Coordinator — IEEE Student Branch  
-Demonstrated leadership in organizing technical events and workshops.
-
-Key Contributions:
-• Coordinated multiple academic events  
-• collaborated with technical teams  
-• promoted innovation culture  
+Modern UI design  
 
 ---
 
-# OPEN SOURCE & CONTRIBUTIONS
+# PROFESSIONAL EXPERIENCE
 
-GitHub Activity:
-• Active repository maintenance  
-• modular architecture design  
-• reusable UI components  
-• continuous integration workflows  
+Event Coordinator  
+IEEE Student Branch  
+KLH University  
+
+Coordinated 15+ technical events  
+
+Managed 200+ participant hackathon  
+
+Led collaboration across technical clubs  
+
+Promoted innovation culture  
 
 ---
 
-# CERTIFICATIONS & EDUCATION
+# CERTIFICATIONS
 
-B.Tech Computer Engineering & IT  
-Specialization in Cyber Security & Blockchain  
+Automation Anywhere  
+Advanced Automation Certification  
 
-CGPA: 8.54  
+Meta  
+Full Stack Engineering Certification  
 
-Relevant Coursework:
-• Cryptography  
-• Artificial Intelligence  
-• Data Structures  
-• Computer Networks  
-• Software Engineering  
+Multicloud Network Associate  
+
+IEEE Recognition  
+Event Coordinator  
+
+---
+
+# DEVELOPMENT PHILOSOPHY
+
+Secure by design  
+
+Performance optimized  
+
+Scalable architecture  
+
+Clean code principles  
+
+User centered design  
+
+Continuous learning mindset  
+
+---
+
+# GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saiteja8298&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja8298&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja8298&layout=compact&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
 # CONTACT
 
 Email  
-asaitejar@gmail.com  
+2320090077csit@gmail.com  
+
+Phone  
++91-7816032058  
 
 LinkedIn  
-https://linkedin.com/in/sai-teja-ambhilige-7a6a21298  
+linkedin.com/in/sai-teja-ambhilige-7a6a21298  
 
 GitHub  
-https://github.com/saiteja8298  
+github.com/saiteja8298  
 
 Location  
 Hyderabad, India  
 
 ---
 
-# DESIGN PRINCIPLES
-
-Secure Architecture  
-Scalable Design  
-Clean Code  
-User Experience Focus  
-Performance Optimization  
-
----
-
 <div align="center">
 
-### ENGINEERED FOR PERFORMANCE
-### DESIGNED FOR SECURITY
-### BUILT FOR THE FUTURE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+ENGINEERED FOR ENTERPRISE SYSTEMS  
+SECURED WITH ADVANCED ARCHITECTURE  
+BUILT WITH PRECISION  
 
 </div>
 
