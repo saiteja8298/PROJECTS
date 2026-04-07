@@ -224,7 +224,7 @@ React • Vite • API integration
 📞 Phone: +91-7816032058  
 
 💼 LinkedIn:  
-linkedin.com/in/sai-teja-ambhilige-7a6a21298  
+linkedin.com/in/ambhilige-sai-teja-7a6a21298/  
 
 💻 GitHub:  
 github.com/saiteja8298  
