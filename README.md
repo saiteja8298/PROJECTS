@@ -221,8 +221,6 @@ React • Vite • API integration
 
 📧 Email: 2320090077csit@gmail.com  
 
-📞 Phone: +91-7816032058  
-
 💼 LinkedIn:  
 linkedin.com/in/ambhilige-sai-teja-7a6a21298/  
 
