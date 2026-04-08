@@ -36,9 +36,9 @@
 
 💡 Strong focus on **clean architecture, UI experience, and system security**
 
-📍 Hyderabad, India 🇮🇳
-🎓 B.Tech Computer Engineering & IT — Cyber Security & Blockchain
-🏫 KLH University
+📍 Hyderabad, India 🇮🇳  
+🎓 B.Tech Computer Engineering & IT — Cyber Security & Blockchain  
+🏫 KLH University  
 📊 CGPA: **8.65**
 
 ---
@@ -47,143 +47,175 @@
 
 ## 👨‍💻 Programming Languages
 
-Java ☕
+Java ☕  
 ████████████████████░░░░ 85%
 
-Python 🐍
+Python 🐍  
 ██████████████████░░░░░░ 80%
 
-JavaScript ⚡
+JavaScript ⚡  
 ████████████████████░░░░ 88%
 
-C 🔹
+C 🔹  
 ████████████████░░░░░░░░ 75%
 
-SQL 🗄️
+SQL 🗄️  
 ████████████████░░░░░░░░ 78%
 
 ---
 
 ## 🌐 Web Development
 
-React ⚛️
+React ⚛️  
 ████████████████████░░░░ 86%
 
-HTML5 📄
+HTML5 📄  
 ██████████████████████░░ 92%
 
-CSS3 🎨
+CSS3 🎨  
 █████████████████████░░░ 90%
 
-REST APIs 🔗
+REST APIs 🔗  
 ████████████████████░░░░ 85%
 
 ---
 
 ## 🔐 Cyber Security
 
-Encryption Algorithms 🔑
+Encryption Algorithms 🔑  
 ████████████████████░░░░ 86%
 
-Authentication Systems 🛂
+Authentication Systems 🛂  
 ████████████████████░░░░ 84%
 
-Cryptography 🧠
+Cryptography 🧠  
 ███████████████████░░░░░ 83%
 
-Secure Communication 🌐
+Secure Communication 🌐  
 ████████████████████░░░░ 85%
 
 ---
 
 ## 🗄️ Databases
 
-PostgreSQL 🐘
+PostgreSQL 🐘  
 ████████████████░░░░░░░░ 78%
 
-MongoDB 🍃
+MongoDB 🍃  
 ████████████████░░░░░░░░ 77%
 
 ---
 
 ## 🛠️ Tools
 
-Git 🔧
+Git 🔧  
 ████████████████████░░░░ 88%
 
-Cisco Packet Tracer 🌐
+Cisco Packet Tracer 🌐  
 ████████████████░░░░░░░░ 75%
 
-Google Colab 📊
+Google Colab 📊  
 ████████████████░░░░░░░░ 78%
 
-NVIDIA Tools ⚙️
-████████████████░░░░░░░░ 72%
-
-MS Office 📑
+MS Office 📑  
 ████████████████████░░░░ 85%
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-## 🔐 CipherChat — Secure Messaging Platform
+## 🔍 DigiForensics Hub — Digital Investigation Platform
 
-💬 End-to-end encrypted communication system
+Enterprise-level forensic workflow system for managing investigation records and digital evidence.
 
 ### Highlights
-🔑 AES, DES, TripleDES, Blowfish, RC4
-🧠 Custom encryption key system
-🌙 Modern cyber-themed UI
-⚡ Client-side secure processing
+🔐 structured evidence organization  
+📁 case workflow management  
+🧾 activity tracking logs  
+⚡ fast secure interface  
+📊 scalable architecture  
 
-Tech Stack
+### Description
+Designed a professional investigation management platform that helps organize digital evidence, track case progress, and maintain structured forensic workflows. Built with focus on data consistency, secure handling practices, and user-friendly interface design.
+
+Tech Stack  
+React • Flask • REST API
+
+---
+
+## 🔐 CipherChat — Secure Messaging Platform
+
+Advanced encrypted communication platform designed for secure message exchange.
+
+### Highlights
+🔑 AES, DES, TripleDES, Blowfish encryption  
+🧠 secure key generation logic  
+🌙 cyber themed UI design  
+⚡ fast encryption processing  
+📩 secure message transfer structure  
+
+### Description
+Developed a secure messaging system implementing multiple encryption algorithms for protecting sensitive communication. Focused on confidentiality, integrity, and efficient cryptographic processing in a modern interface.
+
+Tech Stack  
 React • JavaScript • Cryptography
 
 ---
 
 ## 🌍 Tour Guide Booking System
 
-✈️ Full stack travel platform with AI chatbot
+Full stack travel platform with smart guide selection and AI assistance.
 
 ### Highlights
-🗺️ Tour listing system
-👨‍💼 Guide profile pages
-🤖 AI chatbot assistant
-📊 MongoDB ready schema
+🗺️ dynamic tour listing  
+👨‍💼 guide profile pages  
+🤖 chatbot assistance  
+📊 structured data handling  
+⚡ responsive modern UI  
 
-Tech Stack
+### Description
+Built a scalable travel booking system enabling users to browse tours and connect with professional guides. Implemented modular components and intelligent search features to enhance usability and navigation.
+
+Tech Stack  
 React • Node.js • MongoDB • Flask
 
 ---
 
 ## 🍲 Food Donation System
 
-❤️ Social impact web platform
+Social impact platform connecting donors and receivers efficiently.
 
 ### Highlights
-📍 Google Maps integration
-📧 EmailJS communication
-📱 Responsive UI
-⚡ Lightweight design
+📍 location based support  
+📧 automated communication  
+📱 mobile responsive design  
+⚡ lightweight architecture  
+❤️ user friendly interface  
 
-Tech Stack
+### Description
+Created a web platform to streamline food donation processes by enabling contributors to connect with beneficiaries efficiently. Designed with simplicity, accessibility, and community impact in mind.
+
+Tech Stack  
 HTML • CSS • JavaScript
 
 ---
 
 ## 🎬 AniVerseInfo
 
-📺 Anime discovery platform
+Anime information platform with search and filtering capabilities.
 
 ### Highlights
-⭐ 15000+ anime dataset
-🔎 filtering & search
-🌙 dark modern UI
-⚡ fast loading interface
+⭐ large dataset support  
+🔎 search optimization  
+🌙 dark UI design  
+⚡ fast content loading  
+📊 structured information display  
 
-Tech Stack
-React • Vite • API integration
+### Description
+Developed an anime discovery application enabling users to explore and filter large datasets efficiently. Implemented performance optimized UI rendering and organized information layout.
+
+Tech Stack  
+React • Vite • API
 
 ---
 
@@ -191,50 +223,41 @@ React • Vite • API integration
 
 ## 🎤 Event Coordinator — IEEE Student Branch
 
-📍 KLH University
-📅 Dec 2024 – Present
+📍 KLH University  
+📅 Dec 2024 – Present  
 
 ### Achievements
 
-✔️ Coordinated **15+ technical events**
-✔️ Led **24-hour hackathon** with 200+ participants
-✔️ collaborated across multiple technical clubs
-✔️ promoted innovation & practical learning
-✔️ improved student engagement in technology
+✔️ organized 15+ technical events  
+✔️ managed 24-hour hackathon  
+✔️ collaborated with technical teams  
+✔️ improved participation engagement  
+✔️ supported innovation culture  
 
 ---
 
 # 📜 CERTIFICATIONS
 
-🤖 Automation Anywhere — Advanced Automation Certification (2024)
-
-💼 Meta — Full Stack Engineer Certificate
-
-☁️ Multicloud Network Associate
-
-🏆 IEEE Student Branch — Event Coordinator Recognition
+Automation Anywhere — Advanced Automation Certification  
+Meta — Full Stack Engineer Certificate  
+Multicloud Network Associate  
+IEEE Student Branch Recognition  
 
 ---
 
 # 📬 CONTACT
 
-📧 Email: 2320090077csit@gmail.com
-
-💼 LinkedIn:
-linkedin.com/in/ambhilige-sai-teja-7a6a21298/
-
-💻 GitHub:
-github.com/saiteja8298
-
-📍 Location: Hyderabad, India 🇮🇳
+📧 2320090077csit@gmail.com  
+💼 linkedin.com/in/ambhilige-sai-teja-7a6a21298  
+💻 github.com/saiteja8298  
 
 ---
 
 <div align="center">
 
-### ⚡ ENGINEERED FOR SCALE
-### 🔐 BUILT FOR SECURITY
-### 🚀 READY FOR ENTERPRISE
+### ⚡ ENGINEERED FOR SCALE  
+### 🔐 BUILT FOR SECURITY  
+### 🚀 READY FOR ENTERPRISE  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
