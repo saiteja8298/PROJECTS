@@ -12,6 +12,7 @@
 
 <br>
 
+📞 **+91-7816032058**  
 📧 **2320090077csit@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ambhilige-sai-teja-7a6a21298/)
@@ -117,6 +118,9 @@ Cisco Packet Tracer 🌐
 Google Colab 📊  
 ████████████████░░░░░░░░ 78%
 
+NVIDIA Tools ⚙️  
+████████████████░░░░░░░░ 72%
+
 MS Office 📑  
 ████████████████████░░░░ 85%
 
@@ -124,38 +128,15 @@ MS Office 📑
 
 # 🚀 FEATURED PROJECTS
 
-## 🔍 DigiForensics Hub — Digital Investigation Platform
-
-Enterprise-level forensic workflow system for managing investigation records and digital evidence.
-
-### Highlights
-🔐 structured evidence organization  
-📁 case workflow management  
-🧾 activity tracking logs  
-⚡ fast secure interface  
-📊 scalable architecture  
-
-### Description
-Designed a professional investigation management platform that helps organize digital evidence, track case progress, and maintain structured forensic workflows. Built with focus on data consistency, secure handling practices, and user-friendly interface design.
-
-Tech Stack  
-React • Flask • REST API
-
----
-
 ## 🔐 CipherChat — Secure Messaging Platform
 
-Advanced encrypted communication platform designed for secure message exchange.
+💬 End-to-end encrypted communication system
 
 ### Highlights
-🔑 AES, DES, TripleDES, Blowfish encryption  
-🧠 secure key generation logic  
-🌙 cyber themed UI design  
-⚡ fast encryption processing  
-📩 secure message transfer structure  
-
-### Description
-Developed a secure messaging system implementing multiple encryption algorithms for protecting sensitive communication. Focused on confidentiality, integrity, and efficient cryptographic processing in a modern interface.
+🔑 AES, DES, TripleDES, Blowfish, RC4  
+🧠 Custom encryption key system  
+🌙 Modern cyber-themed UI  
+⚡ Client-side secure processing  
 
 Tech Stack  
 React • JavaScript • Cryptography
@@ -164,17 +145,13 @@ React • JavaScript • Cryptography
 
 ## 🌍 Tour Guide Booking System
 
-Full stack travel platform with smart guide selection and AI assistance.
+✈️ Full stack travel platform with AI chatbot
 
 ### Highlights
-🗺️ dynamic tour listing  
-👨‍💼 guide profile pages  
-🤖 chatbot assistance  
-📊 structured data handling  
-⚡ responsive modern UI  
-
-### Description
-Built a scalable travel booking system enabling users to browse tours and connect with professional guides. Implemented modular components and intelligent search features to enhance usability and navigation.
+🗺️ Tour listing system  
+👨‍💼 Guide profile pages  
+🤖 AI chatbot assistant  
+📊 MongoDB ready schema  
 
 Tech Stack  
 React • Node.js • MongoDB • Flask
@@ -183,17 +160,13 @@ React • Node.js • MongoDB • Flask
 
 ## 🍲 Food Donation System
 
-Social impact platform connecting donors and receivers efficiently.
+❤️ Social impact web platform
 
 ### Highlights
-📍 location based support  
-📧 automated communication  
-📱 mobile responsive design  
-⚡ lightweight architecture  
-❤️ user friendly interface  
-
-### Description
-Created a web platform to streamline food donation processes by enabling contributors to connect with beneficiaries efficiently. Designed with simplicity, accessibility, and community impact in mind.
+📍 Google Maps integration  
+📧 EmailJS communication  
+📱 Responsive UI  
+⚡ Lightweight design  
 
 Tech Stack  
 HTML • CSS • JavaScript
@@ -202,20 +175,76 @@ HTML • CSS • JavaScript
 
 ## 🎬 AniVerseInfo
 
-Anime information platform with search and filtering capabilities.
+📺 Anime discovery platform
 
 ### Highlights
-⭐ large dataset support  
-🔎 search optimization  
-🌙 dark UI design  
-⚡ fast content loading  
-📊 structured information display  
-
-### Description
-Developed an anime discovery application enabling users to explore and filter large datasets efficiently. Implemented performance optimized UI rendering and organized information layout.
+⭐ 15000+ anime dataset  
+🔎 filtering & search  
+🌙 dark modern UI  
+⚡ fast loading interface  
 
 Tech Stack  
-React • Vite • API
+React • Vite • API integration
+
+---
+
+## 🤖 CREDNOVA — AI Credit Intelligence
+
+🏦 India's First AI Engine That Cross-Examines Financial Documents
+
+### Highlights
+🧠 Advanced AI-powered fraud detection  
+⚡ Automated credit scoring  
+📊 Financial document analysis  
+🔐 Enterprise-grade security  
+
+Tech Stack  
+React • TypeScript • AI/ML • TailwindCSS
+
+---
+
+## 🔍 DigiForensics Hub — Digital Investigation Platform
+
+🕵️ Digital investigation and evidence management system
+
+### Highlights
+📁 Evidence collection & management  
+🔍 Digital forensic analysis tools  
+📊 Case management system  
+🛡️ Chain of custody tracking  
+
+Tech Stack  
+Python • Django • PostgreSQL • Forensic Tools
+
+---
+
+## 🏥 Healcarex — Blood Donation Management
+
+❤️ Smart blood donation platform with emergency SOS
+
+### Highlights
+🆘 Emergency SOS support  
+📊 Real-time blood availability tracking  
+👥 Donor-patient matching  
+📱 Mobile-responsive interface  
+
+Tech Stack  
+React • Vite • Modern UI Frameworks
+
+---
+
+## 🌍 ZeroHunger Hub — Fighting Food Waste
+
+🍲 Food waste reduction platform connecting donors with communities
+
+### Highlights
+📧 EmailJS communication system  
+🗺️ Google Maps integration  
+📦 Simple donation forms  
+🤝 NGO partnership platform  
+
+Tech Stack  
+HTML • CSS • JavaScript • EmailJS
 
 ---
 
@@ -228,36 +257,47 @@ React • Vite • API
 
 ### Achievements
 
-✔️ organized 15+ technical events  
-✔️ managed 24-hour hackathon  
-✔️ collaborated with technical teams  
-✔️ improved participation engagement  
-✔️ supported innovation culture  
+✔️ Coordinated **15+ technical events**  
+✔️ Led **24-hour hackathon** with 200+ participants  
+✔️ collaborated across multiple technical clubs  
+✔️ promoted innovation & practical learning  
+✔️ improved student engagement in technology  
 
 ---
 
 # 📜 CERTIFICATIONS
 
-Automation Anywhere — Advanced Automation Certification  
-Meta — Full Stack Engineer Certificate  
-Multicloud Network Associate  
-IEEE Student Branch Recognition  
+🤖 Automation Anywhere — Advanced Automation Certification (2024)
+
+💼 Meta — Full Stack Engineer Certificate
+
+☁️ Multicloud Network Associate
+
+🏆 IEEE Student Branch — Event Coordinator Recognition
 
 ---
 
 # 📬 CONTACT
 
-📧 2320090077csit@gmail.com  
-💼 linkedin.com/in/ambhilige-sai-teja-7a6a21298  
-💻 github.com/saiteja8298  
+📧 Email: 2320090077csit@gmail.com  
+
+📞 Phone: +91-7816032058  
+
+💼 LinkedIn:  
+linkedin.com/in/ambhilige-sai-teja-7a6a21298/  
+
+💻 GitHub:  
+github.com/saiteja8298  
+
+📍 Location: Hyderabad, India 🇮🇳  
 
 ---
 
 <div align="center">
 
-### ⚡ ENGINEERED FOR SCALE  
-### 🔐 BUILT FOR SECURITY  
-### 🚀 READY FOR ENTERPRISE  
+### ⚡ ENGINEERED FOR SCALE
+### 🔐 BUILT FOR SECURITY
+### 🚀 READY FOR ENTERPRISE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
