@@ -12,7 +12,6 @@
 
 <br>
 
-📞 **+91-7816032058**  
 📧 **2320090077csit@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ambhilige-sai-teja-7a6a21298/)
